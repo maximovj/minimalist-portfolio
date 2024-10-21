@@ -113,6 +113,24 @@
         "CSS",
         "JavaScript"
       ]
+    }, 
+    {
+      "name": "DataBase",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
     }],
     "languages": [{
       "language": "English",
