@@ -75,8 +75,8 @@
         "url": "https://www.economia.gob.mx/datamexico/es/profile/institution/instituto-tecnologico-jose-mario-molina-pasquel-y-henriquez",
         "area": "Ingeniería en Sistemas Computacionales",
         "studyType": "Universidad",
-        "startDate": "2019-01-01",
-        "endDate": "2023-01-01",
+        "startDate": "2019-1-1",
+        "endDate": "2023-1-1",
         "score": "9.4",
         "courses": [
           "Desarrollo de Aplicaciones Móviles",
@@ -88,8 +88,8 @@
       "url": "https://www.cecytejalisco.edu.mx",
       "area": "Servicios de Hoteleria",
       "studyType": "Bachillerato",
-      "startDate": "2015-01-01",
-      "endDate": "2018-01-01",
+      "startDate": "2015-1-1",
+      "endDate": "2018-1-1",
       "score": "8.0",
       "courses": [
         "DB1101 - Basic SQL"
