@@ -175,48 +175,56 @@
     "references": [],
     "projects": [{
       "name": "Pizarra Js",
-      "startDate": "2024-10-07",
+      "startDate": "2024-10-7",
       "endDate": "2021-10-10",
       "description": "Consiste en crear una aplicación web de una sola página (SPA) que permite dibujar figuras básicas como: círculo, triángulo, cuadrado, líneas y utilizar una herramienta de lápiz.",
       "isActive": true,
-      "highlights": [],
+      "highlights": ["nodejs","gh-pages","single-page-app","reactjs","canvas2d","pnpm","react-icons"],
       "url": "https://maximovj.github.io/pizarra-js/"
     }, 
     {
       "name": "Text2ArtJS",
-      "startDate": "2019-10-02",
-      "endDate": "2021-10-04",
+      "startDate": "2019-10-2",
+      "endDate": "2021-10-4",
       "description": "Consiste en generar Arte ASCII basado en Texto, Imagen y GIF.",
       "isActive": true,
-      "highlights": [],
+      "highlights": ["nodejs","gh-pages","single-page-app","reactjs","pnpm","react-router-dom","tailwind-css"],
       "url": "https://maximovj.github.io/Text2ArtJS/"
     }, 
     {
       "name": "SecureKeyJS",
-      "startDate": "2019-09-25",
-      "endDate": "2021-09-29",
+      "startDate": "2019-9-25",
+      "endDate": "2021-9-29",
       "description": "Consiste en generar contraseñas / claves.",
       "isActive": true,
-      "highlights": [],
+      "highlights": ["nodejs","gh-pages","single-page-app","reactjs","pnpm","toastify"],
       "url": "https://maximovj.github.io/securekeyjs/"
     },
     {
       "name": "CotoJS",
-      "startDate": "2019-09-25",
-      "endDate": "2021-09-08",
+      "startDate": "2019-9-25",
+      "endDate": "2021-9-08",
       "description": "Es un red social de salas (grupo de conversaciones) en tiempo real.",
       "isActive": true,
-      "highlights": [],
+      "highlights": ["nodejs","docker", "vagrant","docker-compose","reactjs","moongose","express"],
       "url": "https://github.com/maximovj/cotojs/"
     },
     {
       "name": "MyFreeLab v1.2.0Beta",
-      "startDate": "2020-12-01",
-      "endDate": "2021-08-24",
+      "startDate": "2020-12-1",
+      "endDate": "2021-8-24",
       "description": "El programa sirve para poder crear, modificar, eliminar y registrar proyectos desarrollados para una empresa en particular.",
       "isActive": true,
-      "highlights": [],
+      "highlights": ["mysql","java","java-swing","jasper-reports"],
       "url": "https://programmerauditore.gitlab.io/myfreelab/#/"
-    }
-    ]
+    },
+    {
+      "name": "Finanz App",
+      "startDate": "2024-2-17",
+      "endDate": "2021-9-24",
+      "description": "Este sistema web tiene funcionalidad de agregar finanzas personales para comparar con otros finanzas personales en un cierto periodo de tiempo, puedes observar en forma de gráfica los activos y pasivos de tus finanzas.",
+      "isActive": true,
+      "highlights": ["mysql","java","java-swing","jasper-reports"],
+      "url": "https://github.com/maximovj/finanz-app"
+    }]
   }
