@@ -224,7 +224,7 @@
       "endDate": "2021-9-24",
       "description": "Este sistema web tiene funcionalidad de agregar finanzas personales para comparar con otros finanzas personales en un cierto periodo de tiempo, puedes observar en forma de gráfica los activos y pasivos de tus finanzas.",
       "isActive": true,
-      "highlights": ["mysql","java","java-swing","jasper-reports"],
+      "highlights": ["laravel-8","mysql","php","chartjs","bootstrap-4","laravel-backpack"],
       "url": "https://github.com/maximovj/finanz-app"
     }]
   }
