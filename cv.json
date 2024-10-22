@@ -1,122 +1,107 @@
 {
     "basics": {
-      "name": "John Doe",
-      "label": "Programmer",
-      "image": "https://cdn-icons-png.flaticon.com/512/4140/4140037.png",
-      "email": "john@gmail.com",
-      "phone": "(912) 555-4321",
-      "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
+      "name": "Víctor Jesús Máximo Abundio",
+      "label": "Desarrollador Full-Stack",
+      "image": "https://avatars.githubusercontent.com/u/163622315?v=4",
+      "email": "maximovj@outlook.com",
+      "phone": "(+52) 322-237-5687",
+      "url": "https://victor-jesus-blog.blogspot.com/",
+      "summary": "Soy un chico apasionado en la programación y el desarrollo de aplicaciones web, desde el concepto, el desarrollo, hasta la parte de despliegue del mismo, tengo un licenciatura en ingeniera en sistemas computaciones.",
       "location": {
-        "address": "2712 Broadway St",
-        "postalCode": "CA 94115",
-        "city": "San Francisco",
-        "countryCode": "US",
-        "region": "California"
+        "address": "Desconocido",
+        "postalCode": "Desconocido",
+        "city": "Puerto Vallarta",
+        "countryCode": "MX",
+        "state": "Jalisco",
+        "region": "México"
       },
       "profiles": [{
         "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
+        "username": "maximo_vj",
+        "url": "https://twitter.com/maximo_vj"
       },
       {
         "network": "Github",
-        "username": "john",
-        "url": "https://twitter.com/john"
+        "username": "maximovj",
+        "url": "https://github.com/maximovj"
       },
       {
         "network": "Linkedin",
-        "username": "john",
-        "url": "https://twitter.com/john"
+        "username": "maximovj",
+        "url": "https://www.linkedin.com/in/maximovj/"
       }]
     },
-    "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Started the company"
-      ]
+    "work": [
+      {
+        "name": "BMTC-DFK,S.C. ",
+        "position": "Desarrollador Full-Stack",
+        "url": null,
+        "startDate": "2024-1-5",
+        "endDate": null,
+        "summary": "Encargado en el proyecto de portal de auditoría.",
+        "highlights": [ ]
+      },
+      {
+      "name": "Hotel Fiesta Americana",
+      "position": "Seguridad B (Nocturno)",
+      "url": null,
+      "startDate": "2022-7-1",
+      "endDate": "2023-5-1",
+      "summary": "Ayudante de la seguridad del hotel.",
+      "highlights": []
     }, 
     {
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Hotel Club Regina",
+      "position": "Seguridad B (Nocturno)",
+      "url": null,
+      "startDate": "2022-2-1",
+      "endDate": "2022-7-1",
+      "summary": "Ayudante de la seguridad del hotel.",
+      "highlights": []
     }, 
     {
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Hotel Friendly Vallarta",
+      "position": "Cocinero B",
+      "url": null,
+      "startDate": "2019-8-1",
+      "endDate": "2020-1-1",
+      "summary": "Encargado en la producción de los alimentos, cocción y emplatado.",
+      "highlights": []
     }],
-    "volunteer": [{
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }],
-    "education": [{
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
+    "volunteer": [],
+    "education": [
+      {
+        "institution": "Instituto Tecnológico Superior de Puerto Vallarta",
+        "url": "https://www.economia.gob.mx/datamexico/es/profile/institution/instituto-tecnologico-jose-mario-molina-pasquel-y-henriquez",
+        "area": "Ingeniería en Sistemas Computacionales",
+        "studyType": "Universidad",
+        "startDate": "2019-01-01",
+        "endDate": "2023-01-01",
+        "score": "9.4",
+        "courses": [
+          "Desarrollo de Aplicaciones Móviles",
+          "Redes de Telecomunicaciones"
+        ]
+      },
+      {
+      "institution": "Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco",
+      "url": "https://www.cecytejalisco.edu.mx",
+      "area": "Servicios de Hoteleria",
+      "studyType": "Bachillerato",
+      "startDate": "2015-01-01",
+      "endDate": "2018-01-01",
+      "score": "8.0",
       "courses": [
         "DB1101 - Basic SQL"
       ]
     }],
-    "awards": [{
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }],
-    "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }],
-    "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
-    }],
-    "skills": [{
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    }, 
+    "awards": [],
+    "certificates": [],
+    "publications": [],
+    "skills": [
     {
-      "name": "DataBase",
-      "level": "Master",
+      "name": "HTML/CSS/JavaScript",
+      "level": "Intermedio-Avanzado",
       "keywords": [
         "HTML",
         "CSS",
@@ -124,17 +109,61 @@
       ]
     },
     {
-      "name": "DevOps",
-      "level": "Master",
+      "name": "MEVN",
+      "level": "Básico-Intermedio",
       "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
+        "Mongo",
+        "Express",
+        "Vue",
+        "Node"
+      ]
+    }, 
+    {
+      "name": "MERN",
+      "level": "Intermedio-Avanzado",
+      "keywords": [
+        "Mongo",
+        "Express",
+        "React",
+        "Node"
+      ]
+    },
+    {
+      "name": "MEAN",
+      "level": "Básico-Intermedio",
+      "keywords": [
+        "Mongo",
+        "Express",
+        "Angular",
+        "Node"
+      ]
+    },
+    {
+      "name": "LAMP",
+      "level": "Intermedio-Avanzado",
+      "keywords": [
+        "Linux",
+        "Apache",
+        "MySQL",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "level": "Intermedio-Avanzado",
+      "keywords": [
+        "PHP",
+        "Artisan",
+        "Composer"
       ]
     }],
     "languages": [{
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Nahuatl",
+      "fluency": "Lenguaje nativa"
+    },
+    {
+      "language": "Español",
+      "fluency": "Avanzado"
     }],
     "interests": [{
       "name": "Wildlife",
@@ -143,41 +172,51 @@
         "Unicorns"
       ]
     }],
-    "references": [{
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }],
+    "references": [],
     "projects": [{
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+      "name": "Pizarra Js",
+      "startDate": "2024-10-07",
+      "endDate": "2021-10-10",
+      "description": "Consiste en crear una aplicación web de una sola página (SPA) que permite dibujar figuras básicas como: círculo, triángulo, cuadrado, líneas y utilizar una herramienta de lápiz.",
       "isActive": true,
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
+      "highlights": [],
+      "url": "https://maximovj.github.io/pizarra-js/"
     }, 
     {
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+      "name": "Text2ArtJS",
+      "startDate": "2019-10-02",
+      "endDate": "2021-10-04",
+      "description": "Consiste en generar Arte ASCII basado en Texto, Imagen y GIF.",
       "isActive": true,
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
+      "highlights": [],
+      "url": "https://maximovj.github.io/Text2ArtJS/"
     }, 
     {
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+      "name": "SecureKeyJS",
+      "startDate": "2019-09-25",
+      "endDate": "2021-09-29",
+      "description": "Consiste en generar contraseñas / claves.",
       "isActive": true,
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
-    }]
+      "highlights": [],
+      "url": "https://maximovj.github.io/securekeyjs/"
+    },
+    {
+      "name": "CotoJS",
+      "startDate": "2019-09-25",
+      "endDate": "2021-09-08",
+      "description": "Es un red social de salas (grupo de conversaciones) en tiempo real.",
+      "isActive": true,
+      "highlights": [],
+      "url": "https://github.com/maximovj/cotojs/"
+    },
+    {
+      "name": "MyFreeLab v1.2.0Beta",
+      "startDate": "2020-12-01",
+      "endDate": "2021-08-24",
+      "description": "El programa sirve para poder crear, modificar, eliminar y registrar proyectos desarrollados para una empresa en particular.",
+      "isActive": true,
+      "highlights": [],
+      "url": "https://programmerauditore.gitlab.io/myfreelab/#/"
+    }
+    ]
   }
