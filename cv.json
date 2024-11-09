@@ -36,7 +36,7 @@
         "name": "BMTC-DFK,S.C. ",
         "position": "Desarrollador Full-Stack",
         "url": null,
-        "startDate": "2024-1-5",
+        "startDate": "2023-10-5",
         "endDate": null,
         "summary": "Encargado en el proyecto de portal de auditoría.",
         "highlights": [ ]
@@ -173,7 +173,17 @@
       ]
     }],
     "references": [],
-    "projects": [{
+    "projects": [
+      {
+        "name": "AUDFK Software de auditoria",
+        "startDate": "2023-10-5",
+        "endDate": null,
+        "description": "El software sirve para hacer auditorias a chicas, medianas y grandes empresas.",
+        "isActive": true,
+        "highlights": ["nodejs","gh-pages","single-page-app","reactjs","canvas2d","pnpm","react-icons"],
+        "url": "https://audfk-test.com/"
+      },
+      {
       "name": "Pizarra Js",
       "startDate": "2024-10-7",
       "endDate": "2021-10-10",
